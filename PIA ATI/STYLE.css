@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Josefin+Sans:wght@500&family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Josefin+Sans:wght@500&family=Lilita+One&family=Poppins:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Glagolitic&family=Noto+Sans+KR:wght@500&display=swap');
+
+body {
+    background-color: azure;
+    height: 300px;
+}
+
+.HyN {
+    background-color: lightblue;
+}
+
+a {
+    font-family: Verdana;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    font-family: Verdana;
+    font-weight: bold;
+    color: black;
+    transition-duration: 0.4s;
+    text-decoration: none;
+}
+
+
+.FirstText {
+    width: 68%;
+    font-size: 14px;
+    display: inline-block;
+    position: relative;
+    font-family: 'Noto Sans Glagolitic', sans-serif;
+    text-align: center;
+}
+
+.img1 {
+    height: 95px;
+    display: inline-block;
+    position: relative;
+}
+
+.img2 {
+    height: 90px;
+    display: inline-block;
+    position: relative;
+    left: 0px;
+}
+
+.img3 {
+    height: 400px;
+    display: inline-block;
+    position: relative;
+    left: 0px;
+}
+
+
+.pmain{
+    width: 460px;
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    bottom: 60px;
+    right: 200px;
+    text-align: justify;
+}
+
+.h3main{
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+    display: inline-block;
+    position: relative;
+    bottom: 380px;
+    text-align: center;
+}
+
+.h2main {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0px;
+    padding: 5px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: lightblue; /* Green */
+    transition-duration: 0.4s;
+    color: black;
+}
+
+article {
+    width: 300px;
+    background-color: lightblue;
+    display: inline-block;
+    position: relative;
+    bottom: 450px;
+    padding-bottom: 10px;
+    left: 1040px;
+}
+
+.h2article {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-style: normal;
+    color: black;
+}
+
+.vid1 {
+    width: 80%;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+}
+
+footer {
+    background-color: lightblue;
+}
+
+.img4 {
+    height: 20px;
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    right: 120px;
+}
+
+.pfooter1 {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    top: 35px;
+    right: 114px;
+}
+
+.RD {
+    display: inline-block;
+    position: relative; 
+    font-family: 'Josefin Sans', sans-serif;
+    left: 10px;
+}
+
+.img5 {
+    height: 20px;
+    display: inline-block;
+    position: relative;
+    top: 65px;
+    right: 262px;
+}
+
+.pfooter2 {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    top: 62px;
+    right: 256px;
+}
+
+.nam {
+    display: inline-block;
+    position: relative;
+    bottom: 5px;
+    left: 250px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.nom1 {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    top: 20px;
+    left: 168px;
+}
+
+.nom2 {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    top: 40px;
+    right: 142px;
+}
+
+.nom3 {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    top: 2px;
+    left: 668px;
+}
+
+.nom4 {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    bottom: 15px;
+    left: 700px;
+}
+
+.nom5 {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    bottom: 34px;
+    left: 425px;
+}
